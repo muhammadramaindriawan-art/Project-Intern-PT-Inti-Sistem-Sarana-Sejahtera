@@ -1,0 +1,34 @@
+Error creating siswa: error: kolom « nis » tidak ada
+Error saving calon siswa: error: sintaks masukan tidak valid untuk tipe integer : « CS-001 »
+Error saving calon siswa: error: sintaks masukan tidak valid untuk tipe integer : « CS-001 »
+Error saving calon siswa: error: kolom  « kelas_id » dari relasi « data_calon_siswa » tidak ada
+Error saving calon siswa: error: sintaks masukan tidak valid untuk tipe integer : « CS-001 »
+Error saving calon siswa: error: sintaks masukan tidak valid untuk tipe integer : « CS-001 »
+Error saving calon siswa: error: sintaks masukan tidak valid untuk tipe integer : « CS-001 »
+Error saving calon siswa: error: sintaks masukan tidak valid untuk tipe integer : « CS-001 »
+Error creating siswa: error: kolom « nis » tidak ada
+Error creating siswa: error: kolom « nis » tidak ada
+Error creating siswa: error: kolom « nis » tidak ada
+Error creating siswa: error: kolom « nis » tidak ada
+Error creating siswa: error: kolom « nis » tidak ada
+Error creating siswa: error: kolom « nis » tidak ada
+Error creating siswa: error: kolom « nis » tidak ada
+Error creating siswa: error: kolom « nis » tidak ada
+Error creating siswa: error: kolom « nis » tidak ada
+Error creating siswa: error: kolom  « tgl_masuk » dari relasi « data_siswa » tidak ada
+Error creating siswa: error: kolom  « asal_sekolah » dari relasi « data_siswa » tidak ada
+Error fetching siswa: error: kolom « created_at » tidak ada
+Error fetching siswa: error: kolom « created_at » tidak ada
+Error fetching siswa: error: kolom « created_at » tidak ada
+Error fetching siswa: error: kolom « created_at » tidak ada
+Error saving calon siswa: error: sintaks masukan tidak valid untuk tipe integer : « CS-001 »
+Error saving calon siswa: error: null value in column "jurusan_id" of relation "data_calon_siswa" violates not-null constraint
+Error saving calon siswa: error: null value in column "jurusan_id" of relation "data_calon_siswa" violates not-null constraint
+Error saving payment data: error: kolom  « keterangan » dari relasi « pembayaran » tidak ada
+Error saving payment data: error: kolom  « keterangan » dari relasi « pembayaran » tidak ada
+Error saving payment data: error: kolom  « keterangan » dari relasi « pembayaran » tidak ada
+Error saving payment data: error: kolom  « keterangan » dari relasi « pembayaran » tidak ada
+Error saving payment data: error: kolom  « keterangan » dari relasi « pembayaran » tidak ada
+Error saving payment data: error: kolom  « keterangan » dari relasi « pembayaran » tidak ada
+Error saving payment data: error: kolom  « keterangan » dari relasi « pembayaran » tidak ada
+Error saving payment data: error: kolom  « keterangan » dari relasi « pembayaran » tidak ada

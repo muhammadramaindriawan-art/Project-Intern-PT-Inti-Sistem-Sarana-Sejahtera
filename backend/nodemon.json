@@ -1,0 +1,19 @@
+{
+  "watch": ["./index.js"],
+  "ignore": [
+    "node_modules",
+    "*.log",
+    "server-error.log",
+    "logs/**/*",
+    ".env*",
+    "package*.json",
+    "nodemon.json",
+    "env.example"
+  ],
+  "ext": "js",
+  "delay": 2000,
+  "verbose": false,
+  "legacyWatch": false,
+  "restartable": "rs"
+}
+
